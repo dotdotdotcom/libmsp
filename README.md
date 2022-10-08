@@ -1,2 +1,3 @@
 # libmsp
-libmsp
+LibMSP
+./.
